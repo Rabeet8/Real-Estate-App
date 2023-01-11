@@ -1,7 +1,7 @@
 
 # Real Estate App
 
-A single page application for finding appartment to buy or rent.
+A single page application for finding appartments to buy or rent.
 
 Its other pages are not currently build.
 
